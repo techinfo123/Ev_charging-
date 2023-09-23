@@ -1,4 +1,4 @@
-For EV Owners -Find Charging Spots with Ease
+**For EV Owners -Find Charging Spots with Ease:-**
 
 •
 Picture this: you're cruising in your electric car, and you realize it's time for a recharge. That's where our app steps in, like a trusty companion showing you where to find nearby charging stations. Whether you're exploring the city or heading to scenic hill stations, our app ensures you're never stranded without power.
@@ -10,7 +10,8 @@ Navigating to the charging station is a cinch too, thanks to seamless integratio
 
 
 
-For Charging Hosts -Share Your Charging Haven
+
+**For Charging Hosts -Share Your Charging Haven:-**
 
 •
 Do you have your very own charging station at home or in your business? Well, you're in for a treat because you can join our community and open your charging spot to fellow EV owners. It's like extending a warm welcome to them at your own charging oasis.
